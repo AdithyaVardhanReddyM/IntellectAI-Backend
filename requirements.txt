@@ -8,19 +8,19 @@ anyio==4.4.0
 astunparse==1.6.3
 async-timeout==4.0.3
 attrs==24.2.0
-boltons @ file:///home/conda/feedstock_root/build_artifacts/boltons_1677499911949/work
-Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1693583518054/work
+
+
 certifi==2023.7.22
-cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1671179893800/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1688813409104/work
+
+
 click==8.1.7
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1666700638685/work
+
 conda==23.3.1
-conda-libmamba-solver @ file:///home/conda/feedstock_root/build_artifacts/conda-libmamba-solver_1680508672016/work/src
-conda-package-handling @ file:///home/conda/feedstock_root/build_artifacts/conda-package-handling_1691048088238/work
-conda_package_streaming @ file:///home/conda/feedstock_root/build_artifacts/conda-package-streaming_1691009212940/work
+
+
+
 contourpy==1.2.1
-cryptography @ file:///Users/runner/miniforge3/conda-bld/cryptography-split_1691444278572/work
+
 cycler==0.12.1
 dataclasses-json==0.6.7
 exceptiongroup==1.2.2
@@ -38,7 +38,7 @@ h5py==3.10.0
 httpcore==1.0.5
 httpx==0.27.0
 huggingface-hub==0.24.6
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+
 imageio==2.34.1
 Jinja2==3.1.4
 joblib==1.4.2
@@ -53,9 +53,9 @@ langchain-text-splitters==0.2.2
 langsmith==0.1.104
 lazy_loader==0.4
 libclang==18.1.1
-libmambapy @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1680791351028/work/libmambapy
+
 lightning-utilities==0.11.2
-mamba @ file:///Users/runner/miniforge3/conda-bld/mamba-split_1680791351028/work/mamba
+
 Markdown==3.6
 markdown-it-py==3.0.0
 MarkupSafe==2.1.5
@@ -77,30 +77,28 @@ orjson==3.10.7
 packaging==24.1
 pandas==2.2.0
 pillow==10.3.0
-pluggy @ file:///home/conda/feedstock_root/build_artifacts/pluggy_1693086607691/work
 pretty-errors==1.2.25
 protobuf==4.25.3
 pycocotools==2.0.7
-pycosat @ file:///Users/runner/miniforge3/conda-bld/pycosat_1666836623787/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+
 pydantic==2.7.1
 pydantic_core==2.18.2
 pydicom==2.4.4
 Pygments==2.17.2
 PyMySQL==1.1.1
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1685514481738/work
+
 pyparsing==3.1.2
 pypdf==4.3.1
-PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+
 python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML==6.0.1
 regex==2024.7.24
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1684774241324/work
+
 rich==13.7.1
-ruamel.yaml @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml_1686993977949/work
-ruamel.yaml.clib @ file:///Users/runner/miniforge3/conda-bld/ruamel.yaml.clib_1670412881259/work
+
+
 safetensors==0.4.4
 scikit-image==0.23.2
 scikit-learn==1.4.2
@@ -121,19 +119,18 @@ threadpoolctl==3.5.0
 tidb-vector==0.0.11
 tifffile==2024.5.10
 tokenizers==0.19.1
-toolz @ file:///home/conda/feedstock_root/build_artifacts/toolz_1657485559105/work
+
 torch==2.3.0
 torchinfo==1.8.0
 torchmetrics==1.4.0
 torchvision==0.18.0
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1691671248568/work
+
 transformers==4.44.1
 typing-inspect==0.9.0
 typing_extensions==4.10.0
 tzdata==2024.1
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1689789803562/work
+
 uvicorn==0.30.6
 Werkzeug==3.0.1
 wrapt==1.16.0
 yarl==1.9.4
-zstandard @ file:///Users/runner/miniforge3/conda-bld/zstandard_1667296287896/work
